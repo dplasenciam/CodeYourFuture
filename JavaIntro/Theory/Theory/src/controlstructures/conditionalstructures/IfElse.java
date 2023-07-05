@@ -3,13 +3,33 @@ package controlstructures.conditionalstructures;
 
 import java.util.Scanner;
 
-public class Theory {
+public class IfElse {
     
     public static void main(String[] args){
         
         Scanner read = new Scanner(System.in);
         
         /// IF ELSE
+        
+        /*
+        
+        if (<condicion1>) {
+        
+            <sentencia A>
+        
+        } else if (<condicion2>) {
+        
+            <sentencia B>
+        
+        } else {
+        
+            <sentencia C>
+        
+        }
+        
+        */
+        
+        
         
         int num = 10;
         
@@ -30,8 +50,7 @@ public class Theory {
         } else {
             System.out.println("TERCERA VUELTA: ELSE");
         }
-        
-        
+               
     }
     
 }

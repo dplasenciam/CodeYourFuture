@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Daniel Plasencia
  */
-public class Exercise {
+public class ExerciseIfElse {
     
     public static void main(String[] args){
         
