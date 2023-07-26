@@ -22,7 +22,7 @@ public class TaskManager {
     }
     
     public ArrayList<String> getTasks(){
-        return tasks;
+        return this.tasks;
     }
     
 }
